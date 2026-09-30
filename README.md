@@ -6,11 +6,12 @@ Professor of Economics at Boston University.
 
 ## fe-tools
 
-Tools for estimation and variance decomposition in models with high-dimensional fixed effects.
+Stata tools for worker–firm analysis, including firm rankings and fixed-effects variance decomposition.
 
 | Repository | Purpose |
 | --- | --- |
 | [fevc](https://github.com/johannes-schmieder/fevc) | Bias-corrected variance components in worker–firm fixed-effects models, using the leave-out approach of Kline, Saggio, and Sølvsten. |
+| [ferank](https://github.com/johannes-schmieder/ferank) | Firm rankings from worker flows using Sorkin and Bradley–Terry methods in Stata (alpha). |
 
 [Browse the fe-tools family](https://github.com/search?q=user%3Ajohannes-schmieder+topic%3Afe-tools&type=repositories)
 
